@@ -61,8 +61,8 @@
 					<img src="images/slide04.jpg"  alt="" />
 					<div class="inner">
 						<header>
-							<p>Adipiscing lorem ipsum feugiat sed phasellus consequat</p>
-							<h2>Etiam feugiat</h2>
+							<p>Un lugar lleno de checos y checas </p>
+							<h2>Republica Checa</h2>
 						</header>
 					</div>
 				</article>
