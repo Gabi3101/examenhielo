@@ -52,8 +52,8 @@
 					<img src="images/slide03.jpg"  alt="" />
 					<div class="inner">
 						<header>
-							<p>Sed cursus aliuam veroeros lorem ipsum nullam</p>
-							<h2>Tempus dolor</h2>
+							<p>Lugares que maravilosas culturas </p>
+							<h2>Eslovenia</h2>
 						</header>
 					</div>
 				</article>
