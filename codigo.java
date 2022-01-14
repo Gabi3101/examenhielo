@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Hielo by TEMPLATED</title>
+		<title>Hielo by Gabi Castell</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -34,8 +34,8 @@
 					<img src="images/slide01.jpg" alt="" />
 					<div class="inner">
 						<header>
-							<p>A free responsive web site template by <a href="https://templated.co">TEMPLATED</a></p>
-							<h2>Hielo</h2>
+							<p>Disfruta de lugares maravillosos ="https://templated.co">TEMPLATED</a></p>
+							<h2>UN MUNDO DE HIELO</h2>
 						</header>
 					</div>
 				</article>
